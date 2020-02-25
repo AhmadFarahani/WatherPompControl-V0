@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"981128-V0.c" LINE:71
+fn_settime DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"981128-V0.c" LINE:221
+fn_del5 DSTACK_USAGE:4 DSTACK_LEVEL:6 FILE:"981128-V0.c" LINE:447
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:20 FILE:"..\..\..\..\..\..\cvavr\lib\stdio.lib" LINE:1462
+_print DSTACK_USAGE:20 DSTACK_LEVEL:40 FILE:"..\..\..\..\..\..\cvavr\lib\stdio.lib" LINE:533
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:42 FILE:"..\..\..\..\..\..\cvavr\lib\string.lib" LINE:1706
